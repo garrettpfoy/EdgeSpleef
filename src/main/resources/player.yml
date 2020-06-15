@@ -1,0 +1,6 @@
+#Player Stats
+wins: 0
+losses: 0
+ties: 0
+games-played: 0
+currentArena: "EMPTY"

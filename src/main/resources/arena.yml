@@ -1,0 +1,28 @@
+name: EMPTY
+#Current supported types: SHOVEL
+type: SHOVEL
+running: false
+world: "world"
+inCountdown: false
+radius: 15
+
+alive-players: []
+spectators: []
+
+coords:
+  lobby:
+    x: 0
+    y: 100
+    z: 0
+  arena-spawn:
+    x: 0
+    y: 100
+    z: 0
+  spectators:
+    x: 0
+    y: 100
+    z: 0
+  end-game:
+    x: 0
+    y: 100
+    z: 0
